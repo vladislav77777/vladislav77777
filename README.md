@@ -1,5 +1,6 @@
+========================
 - Hi, I'm Vladislav 👋
-**********************
+========================
 - 👀 I’m interested in alghoritms, learning new languages and improving other nessecary skills
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...TBD
