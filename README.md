@@ -9,6 +9,6 @@ Hi, I'm Vladislav 👋
 ## 🛠 Technical Stack
 *   Java/Python/C++/C languages
 *   MySQL, PostgreSQL, Flyway
-*   Swing, Spring
+*   Swing, Spring Boot
 *   GitHub/Git
 
