@@ -11,6 +11,6 @@ Hi, I'm Vladislav 👋
 *   MySQL, PostgreSQL, Flyway
 *   Swing, Spring Boot
 *   GitHub/Git
-*   HTML/CSS/JS/Bootstrap
+*   HTML/CSS/JS/Bootstrap/React.js/Node.js
 *   Docker
 
