@@ -13,7 +13,7 @@ Hi, I'm Vladislav 👋
 *   GitHub/Git
 *   HTML/CSS/JS/Bootstrap/React.js/Node.js
 *   Docker
-
+*   Solidity and blockhain technologies
 
 <h3>GitHub Stats:</h3>
 <div align="center" style="diplay: flex;">
