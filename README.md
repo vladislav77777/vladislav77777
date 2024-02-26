@@ -17,8 +17,8 @@ Hi, I'm Vladislav 👋
 
 <h3>GitHub Stats:</h3>
 <div align="center" style="diplay: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=vladislav77777&show_icons=true&theme=radical" style="height: 150px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladislav77777&layout=compact&theme=radical" style="height: 150px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=vladislav77777&show_icons=true&theme=dark" style="height: 150px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladislav77777&layout=compact&theme=dark" style="height: 150px;">
 </div>
 
 <h3>Profile Visits Count:</h3>
