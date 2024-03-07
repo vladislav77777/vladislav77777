@@ -8,8 +8,8 @@ Hi, I'm Vladislav 👋
 
 ## 🛠 Technical Stack
 *   Java/Python/C++/C languages
-*   MySQL, PostgreSQL, Flyway
-*   Swing, Spring Boot
+*   MySQL, PostgreSQL, Flyway, Liquibase
+*   Swing, Spring, Spring Boot
 *   GitHub/Git
 *   HTML/CSS/JS/Bootstrap/React.js/Node.js
 *   Docker
