@@ -8,9 +8,9 @@ Hi, I'm Vladislav 👋
 
 ## 🛠 Technical Stack
 *   Java/Python/C++/C languages
-*   MySQL, PostgreSQL, Flyway, Liquibase
-*   Swing, Spring, Spring Boot
-*   GitHub/Git
+*   PostgreSQL, Flyway, Liquibase
+*   Spring, Spring Boot, Swing
+*   Git
 *   HTML/CSS/JS/Bootstrap/React.js/Node.js
 *   Docker
 *   Solidity and blockhain technologies
