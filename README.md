@@ -1,9 +1,8 @@
 Hi, I'm Vladislav 👋
 =====================
 - 👀 I’m interested in alghoritms, learning new languages and improving other nessecary skills
-- 🌱 I’m currently learning SpringBoot and blockhain technologies
-
-
+- 🌱 I’m currently learning SpringBoot, Ansible and Blockhain technologies
+- 💞️ I’m looking to collaborate on interesting new IT projects
 
 
 ## 🛠 Technical Stack
@@ -12,8 +11,15 @@ Hi, I'm Vladislav 👋
 *   Spring, Spring Boot, Swing
 *   Git
 *   HTML/CSS/JS/Bootstrap/React.js/Node.js
-*   Docker
-*   Solidity and blockhain technologies
+*   Docker, Ansible, K8s
+*   Solidity and Blockhain technologies
+
+## 🌐 Socials:
+📫 [Telegram](https://t.me/VLADISLAVVV777)
+
+📧 [Mail](<a href="mailto:vladoss7700@mail.ru>...</a>
+)
+
 
 <h3>GitHub Stats:</h3>
 <div align="center" style="diplay: flex;">
