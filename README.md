@@ -17,8 +17,7 @@ Hi, I'm Vladislav 👋
 ## 🌐 Socials:
 📫 [Telegram](https://t.me/VLADISLAVVV777)
 
-📧 [Mail](<a href="mailto:vladoss7700@mail.ru>...</a>
-)
+📧 [Mail](<a href="mailto:vladoss7700@mail.ru>...</a>)
 
 
 <h3>GitHub Stats:</h3>
