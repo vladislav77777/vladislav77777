@@ -8,6 +8,7 @@ Hi, I'm Vladislav 👋
 ## 🛠 Technical Stack
 *   Java/Python/C++/C languages
 *   PostgreSQL, Flyway, Liquibase
+*   Kafka, Rabbit MQ
 *   Spring, Spring Boot, Swing
 *   Git
 *   HTML/CSS/JS/Bootstrap/React.js/Node.js
