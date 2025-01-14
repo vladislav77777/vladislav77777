@@ -12,7 +12,7 @@ I’m a passionate Java Developer with a keen interest in backend development, D
 *   Spring
 *   PostgreSQL, Flyway, Liquibase
 *   Kafka, Rabbit MQ
-*   Spring, Swing
+*   Swing
 *   Grafana, Elasticsearch, Git
 *   HTML/CSS/JS/Bootstrap/React.js/Node.js/SvelteKit
 *   Docker, Ansible, K8s
