@@ -9,13 +9,14 @@ I’m a passionate Java Developer with a keen interest in backend development, D
 
 
 ## 🛠 Technical Stack
-*   Java/Python/C++/C languages
+*   Spring
 *   PostgreSQL, Flyway, Liquibase
 *   Kafka, Rabbit MQ
 *   Spring, Swing
-*   Git
+*   Grafana, Elasticsearch, Git
 *   HTML/CSS/JS/Bootstrap/React.js/Node.js/SvelteKit
 *   Docker, Ansible, K8s
+*   Java/Python/C++/C languages
 *   Solidity and Blockhain technologies
 
 ## 🌐 Socials:
@@ -23,7 +24,7 @@ I’m a passionate Java Developer with a keen interest in backend development, D
 
 💼 [Linkedin](https://www.linkedin.com/in/vladislav-grigorev-29a2a931b/)
 
-🌐 [Website](https://vladislav77777.github.io/Portfolio_Web-Site/)
+🌐 [Website](https://vladislav77777.github.io/Portfolio_Web-Site/](https://vladislav77777.github.io/))
 
 📧 [Mail](mailto:vladoss7700@mail.ru)
 
