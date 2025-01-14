@@ -24,7 +24,7 @@ I’m a passionate Java Developer with a keen interest in backend development, D
 
 💼 [Linkedin](https://www.linkedin.com/in/vladislav-grigorev-29a2a931b/)
 
-🌐 [Website](https://vladislav77777.github.io/Portfolio_Web-Site/](https://vladislav77777.github.io/))
+🌐 [Website](https://vladislav77777.github.io/)
 
 📧 [Mail](mailto:vladoss7700@mail.ru)
 
