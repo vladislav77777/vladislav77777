@@ -30,12 +30,10 @@ I’m a passionate Java Developer with a keen interest in backend development, D
 
 ## 📊 GitHub Stats:
 
-<div align="center" style="diplay: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=vladislav77777&show_icons=true&theme=dark" style="height: 150px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladislav77777&layout=compact&theme=dark" style="height: 150px;">
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vladislav77777&theme=tokyonight" alt="mystreak" />
+</p>
 
-<h3>Profile Visits Count:</h3>
-<div>
-  <img src="https://profile-counter.glitch.me/vladislav77777/count.svg">
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vladislav77777&style=flat-square&color=blue" alt="profile views" />
+</p>
