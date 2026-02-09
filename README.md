@@ -31,7 +31,7 @@ I’m a passionate Java Developer with a keen interest in backend development, D
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vladislav77777&theme=tokyonight" alt="mystreak" />
+  <img src="https://streak-stats.demolab.com?user=vladislav77777&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
