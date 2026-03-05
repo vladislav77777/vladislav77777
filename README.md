@@ -1,6 +1,6 @@
 # Hi, I'm Vladislav 👋
 
-Java Backend Engineer with **4+ years of experience building high-load distributed systems in fintech and mobility platforms**.  
+Java Backend Engineer with **5+ years of experience building high-load distributed systems in fintech and mobility platforms**.  
 Developed and scaled microservices handling **up to 3–4k RPS** and supporting services generating **$10M+ in monthly transactions**.
 
 Focused on improving **reliability, scalability, and performance of production systems** through event-driven architectures, database optimization, and cloud infrastructure.
