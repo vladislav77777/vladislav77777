@@ -1,4 +1,4 @@
-# Hi, I'm Vladislav 👋
+## Hi, I'm Vladislav 👋
 
 Java Backend Engineer with **5+ years of experience building high-load distributed systems in fintech and mobility platforms**.  
 Developed and scaled microservices handling **up to 3–4k RPS** and supporting services generating **$10M+ in monthly transactions**.
@@ -7,7 +7,7 @@ Focused on improving **reliability, scalability, and performance of production s
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 - Backend engineer focused on **Java, Spring Boot, distributed systems**
 - Experience working with **high-load production systems**
@@ -16,9 +16,9 @@ Focused on improving **reliability, scalability, and performance of production s
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-## Maxim Technology | Java Backend Engineer  
+### Maxim Technology | Java Backend Engineer  
 **Aug 2022 – Present**
 
 - Led a team of **4 backend engineers** responsible for a ride pricing and order processing system handling **3–4k RPS** and supporting a platform generating **$10M+ in monthly ride transactions**.
@@ -32,7 +32,7 @@ Focused on improving **reliability, scalability, and performance of production s
 
 ---
 
-## Allica Bank | Java Backend Engineer  
+### Allica Bank | Java Backend Engineer  
 **Feb 2021 – Jul 2022**
 
 - Reduced payment processing failures from **~6% to <1.5%** by implementing resilient REST integrations with external banking APIs using retries, timeouts, and circuit breakers.
@@ -42,7 +42,7 @@ Focused on improving **reliability, scalability, and performance of production s
 
 ---
 
-# 🛠 Skills
+## 🛠 Skills
 
 **Backend & Frameworks**  
 Java 17/21, Spring Boot, Spring (Web, Data JPA/JDBC, Security, Cache, Scheduling, Transactional), Hibernate, MapStruct
@@ -64,9 +64,8 @@ Team Leadership, Agile Methodologies, Communicability, Critical Thinking, Perfor
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-**Innopolis University**  
 📚 Innopolis University (2020 - 2024) | Bachelor's in Computer Science (Software Engineering) | Innopolis, Russia
 
 ## 🌐 Socials:
