@@ -66,7 +66,7 @@ Team Leadership, Agile Methodologies, Communicability, Critical Thinking, Perfor
 
 ## 🎓 Education
 
-📚 Innopolis University (2020 - 2024) | Bachelor's in Computer Science (Software Engineering) | Innopolis, Russia
+📚 Innopolis University (2022 - 2026) | Bachelor's in Computer Science (Software Engineering) | Innopolis, Russia
 
 ## 🌐 Socials:
 📱 [Telegram](https://t.me/VLADISLAVVV777)
