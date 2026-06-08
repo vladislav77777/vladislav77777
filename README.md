@@ -21,7 +21,7 @@ Focused on improving **reliability, scalability, and performance of production s
 ### Maxim Technology | Java Backend Engineer  
 **Aug 2022 – Present**
 
-- Led a team of **4 backend engineers** responsible for a ride pricing and order processing system handling **3–4k RPS** and supporting a platform generating **$10M+ in monthly ride transactions**.
+- Led a team of **4 backend engineers** responsible for a ride pricing and order processing system handling **14k RPS** and supporting a platform generating **$10M+ in monthly ride transactions**.
 - Reduced pricing calculation latency and stabilized ride quote responses under peak traffic, improving ride order conversion by **~21%**.
 - Designed a reliable event publishing workflow between **PostgreSQL and Kafka** to guarantee consistent ride-processing events across downstream microservices.
 - Reduced execution time of critical **PostgreSQL queries by 2×** by redesigning ride lookup queries and introducing composite indexes for active ride records.
