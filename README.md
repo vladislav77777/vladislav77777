@@ -73,6 +73,3 @@ Bachelor's Degree in Computer Science (Software Engineering)
   <img src="https://streak-stats.demolab.com?user=vladislav77777&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vladislav77777&style=flat-square&color=blue" alt="Profile views" />
-</p>
