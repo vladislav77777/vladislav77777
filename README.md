@@ -1,90 +1,78 @@
 ## Hi, I'm Vladislav 👋
 
-Java Backend Engineer with **5+ years of experience building high-load distributed systems in fintech and mobility platforms**.  
-Developed and scaled microservices handling **up to 14k RPS** and supporting services generating **$10M+ in monthly transactions**.
+**Software Engineer with 5+ years of experience** building distributed systems for fintech and mobility platforms.
 
-Focused on improving **reliability, scalability, and performance of production systems** through event-driven architectures, database optimization, and cloud infrastructure.
+I design and scale backend services handling **15–20k requests per second**, supporting a platform with **$12M+ in monthly ride transaction volume**. My work focuses on reliability, performance, and turning complex business requirements into maintainable software.
 
----
+**Java · Go · Spring Boot · PostgreSQL · Apache Kafka · Redis · Kubernetes**
 
-## 🚀 About Me
-
-- Backend engineer focused on **Java, Spring Boot, distributed systems**
-- Experience working with **high-load production systems**
-- Interested in **system design, event-driven architectures, infrastructure scaling**
-- Passionate about building **reliable backend services that create real business value**
-
-🌐 [My Website :)](https://vladislav77777.github.io/)
+[Website](https://vladislav77777.github.io/) · [CV](https://docs.google.com/document/d/1ZM2YSbOvwWmTIithJWUtnGCOxsbTnSilHBRI3RVyMA4/edit?tab=t.0) · [LinkedIn](https://www.linkedin.com/in/grigorev-vladislove)
 
 ---
 
 ## 💼 Experience
 
-### Maxim Technology | Java Backend Engineer  
-**Aug 2022 – Present**
+### Maxim Technology | Software Engineer
+**Aug 2023 – Present**
 
-- Led a team of **4 backend engineers** responsible for a ride pricing and order processing system handling **14k RPS** and supporting a platform generating **$10M+ in monthly ride transactions**.
-- Reduced pricing calculation latency and stabilized ride quote responses under peak traffic, improving ride order conversion by **~21%**.
-- Designed a reliable event publishing workflow between **PostgreSQL and Kafka** to guarantee consistent ride-processing events across downstream microservices.
-- Reduced execution time of critical **PostgreSQL queries by 2×** by redesigning ride lookup queries and introducing composite indexes for active ride records.
-- Scaled backend services using **Kubernetes horizontal autoscaling and resource tuning**, preventing latency spikes during peak ride-booking traffic.
-- Improved reliability of the event-driven pipeline by implementing **Kafka DLQ, retry with backoff, and Avro + Schema Registry**, reducing message-processing incidents by **~62%**.
-- Implemented **Redis distributed caching (Spring Cache)** reducing database load by **47%** without SLA degradation.
-- Enhanced the **File Service** by introducing versioning and MD5 integrity verification, reducing file upload errors by **56%**.
+- Led **4 backend engineers** responsible for ride pricing and order processing services handling a combined peak load of **15–20k RPS**.
+- Supported a mobility platform with **$12M+ in monthly ride transaction volume**.
+- Reduced pricing calculation latency and kept ride quote responses stable during peak traffic.
+- Reduced critical **PostgreSQL query execution time from 900 ms to 440 ms** through query redesign and composite indexes.
+- Introduced **Redis and Spring Cache** to reduce database load on frequently accessed data.
+- Strengthened **Kafka** processing with dead-letter queues, retries with backoff, and **Confluent Schema Registry**, reducing message-processing incidents.
+- Used **Kubernetes autoscaling and resource tuning** to accommodate traffic spikes.
 
----
+### Allica Bank | Software Engineer
+**Feb 2021 – Jul 2023**
 
-### Allica Bank | Java Backend Engineer  
-**Feb 2021 – Jul 2022**
-
-- Reduced payment processing failures from **~6% to <1.5%** by implementing resilient REST integrations with external banking APIs using retries, timeouts, and circuit breakers.
-- Supported stable processing of **~12k financial transactions per day** in payment workflows.
-- Improved platform reliability to **99.6% uptime** by redesigning the internal event queue processing and eliminating blocking operations in transaction flows.
-- Automated **Central Bank regulatory document processing**, implementing validation and signing logic that reduced manual operator work by **~80%**.
+- Stabilized banking API integrations with input validation, timeouts, retries, and circuit breakers.
+- Developed payment processing and banking integrations supporting up to **12k transaction requests per day**.
+- Improved incident diagnosis with **Prometheus, Grafana, Jaeger, and trace IDs** across distributed services.
+- Introduced **Avro schemas and Schema Registry compatibility checks** to reduce incompatible event releases.
 
 ---
 
-## 🛠 Skills
+## 🛠 Technologies
 
-**Backend & Frameworks**  
-Java 17/21, Spring Boot, Spring (Web, Data JPA/JDBC, Security, Cache, Scheduling, Transactional), Hibernate, MapStruct
+**Languages & Backend**  
+Java 17/21, Go, Spring Boot, Spring Web, Spring Data, Spring Security, Spring Cache, Hibernate, MapStruct, Jakarta Validation
 
 **Data & Messaging**  
-PostgreSQL, H2, MongoDB, Flyway, Liquibase, Kafka, Redis, Amazon S3, MinIO
+PostgreSQL, MongoDB, H2, Redis, Apache Kafka, RabbitMQ, Avro, Confluent Schema Registry, Flyway, Liquibase
 
-**DevOps & Infrastructure**  
-Docker, Kubernetes, Jenkins, CI/CD, Git (GitHub/GitLab), Maven/Gradle, Linux, REST/OpenAP
+**Infrastructure & Delivery**  
+Docker, Kubernetes, AWS, Amazon S3, MinIO, Jenkins, CI/CD, GitHub, GitLab, Maven, Gradle, Linux
 
-**Observability & Performance**  
-Prometheus, Grafana, Elasticsearch, JMeter, Jaeger, VisualVM, AWS
+**Observability & Testing**  
+Prometheus, Grafana, Jaeger, Elasticsearch, JMeter, VisualVM, JUnit 5, Mockito, Testcontainers
 
-**Quality & Tooling**  
-JUnit5, JMeter, Testcontainers, Mockito, REST/OpenAPI, Apache HTTP Client, OAuth2, SSL/TLS
-
-**Soft Skills**  
-Team Leadership, Agile Methodologies, Communicability, Critical Thinking, Performance Optimization
+**APIs & Security**  
+REST, OpenAPI, OAuth2, SSL/TLS, Apache HTTP Client
 
 ---
 
 ## 🎓 Education
 
-📚 Innopolis University (2022 - 2026) | Bachelor's in Computer Science (Software Engineering) | Innopolis, Russia
+**Innopolis University · 2022–2026**  
+Bachelor's Degree in Computer Science (Software Engineering)
 
-## 🌐 Socials:
-📱 [Telegram](https://t.me/VLADISLAVVV777)
+---
 
-💼 [Linkedin](https://www.linkedin.com/in/vladislav-grigorev-29a2a931b/)
+## 🌐 Get in touch
 
-🌐 [Website](https://vladislav77777.github.io/)
+- [Website](https://vladislav77777.github.io/)
+- [CV](https://docs.google.com/document/d/1ZM2YSbOvwWmTIithJWUtnGCOxsbTnSilHBRI3RVyMA4/edit?tab=t.0)
+- [LinkedIn](https://www.linkedin.com/in/grigorev-vladislove)
+- [Telegram](https://t.me/vladislove_grigorev)
+- [Email](mailto:vgrigorev2004s@gmail.com)
 
-📧 [Mail](mailto:vladoss7700@mail.ru)
-
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vladislav77777&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=vladislav77777&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vladislav77777&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vladislav77777&style=flat-square&color=blue" alt="Profile views" />
 </p>
